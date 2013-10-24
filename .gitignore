@@ -1,15 +1,15 @@
 # PhoneGap
 
-tourapp/components
-tourapp/www/components
+components
+www/components
 
-tourapp/merges/**
-tourapp/platforms/**
-tourapp/plugins/**
+merges/**
+platforms/**
+plugins/**
 
-!tourapp/merges/.gitkeep
-!tourapp/platforms/.gitkeep
-!tourapp/plugins/.gitkeep
+!merges/.gitkeep
+!platforms/.gitkeep
+!plugins/.gitkeep
 
 #npm
 
