@@ -1,0 +1,15 @@
+{
+	"name": "tourapp",
+	"version": "0.0.1",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"tourapp/components"
+	],
+	"devDependencies": {
+		"angular-1.2.0-rc.3": "http://code.angularjs.org/1.2.0-rc.3/angular-1.2.0-rc.3.zip",
+		"font-awesome-4.0.0": "http://fortawesome.github.io/Font-Awesome/assets/font-awesome-4.0.0.zip",
+		"leaflet-0.6.4": "http://leaflet-cdn.s3.amazonaws.com/build/leaflet-0.6.4.zip",
+		"topcoat-0.8.0": "https://github.com/topcoat/topcoat/archive/v0.8.0.zip"
+	}
+}
